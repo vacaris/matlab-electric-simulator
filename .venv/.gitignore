@@ -1,0 +1,21 @@
+# MATLAB
+*.asv
+*.autosave
+*.bak
+*.backup
+*.fig
+*.mat
+*.mdl
+*.slx
+*.mex*
+*.log
+
+# PyCharm / Python virtualenv
+.idea/
+.venv/
+__pycache__/
+*.pyc
+
+# Systemowe
+.DS_Store
+Thumbs.db
